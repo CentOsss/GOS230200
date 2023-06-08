@@ -1,9 +1,9 @@
-| Время  | Дисциплина                       | Книга/материал | Перерыв на прием пищи |
-|--------|----------------------------------|----------------|-----------------------|
-| 7:00   | Физическая культура               | -              | -                     |
-| 8:00   | Английский                        | Skyeng.ru, курс netology.ru | - |
-| 9:00   | Завтрак                           |  | - |
-| 10:00  | Программирование Python           | Курс нетологии (https://netology.ru/profile/program/devpy-2/schedule), курс на ютубе https://www.youtube.com/playlist?list=PLRDzFCPr95fK7tr47883DFUbm4GeOjjc0 | - |
+| Время  | Дисциплина                       | Книга/материал |
+|--------|----------------------------------|----------------|
+| 7:00   | Физическая культура               |            |
+| 8:00   | Завтрак                           |  |
+| 9:00   | Английский                        | Skyeng.ru, курс netology.ru | - |
+| 9:00  | Программирование Python           | Курс нетологии (https://netology.ru/profile/program/devpy-2/schedule), курс на ютубе https://www.youtube.com/playlist?list=PLRDzFCPr95fK7tr47883DFUbm4GeOjjc0 | - |
 | 11:30   | Второй завтрак                            |  | - |
 | 12:00  | Операционные системы              | https://pages.cs.wisc.edu/~remzi/OSTEP/, книга "Operating System Concepts" - Silberschatz, Galvin, Gagne | - |
 | 14:00   | Обед                            |  | - |
