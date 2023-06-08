@@ -3,7 +3,7 @@
 | 7:00   | Физическая культура               |          |
 | 7:30   | Завтрак                           |  |
 | 8:00   | Английский                        | [курс Skyeng.ru](https://Skyeng.ru)  [курс netology.ru](https://netology.ru/profile/program/eng-it/schedule) |
-| 9:00  | Программирование Python           | [Курс нетологии](https://netology.ru/profile/program/devpy-2/schedule)  [курс на ютубе](https://www.youtube.com/playlist?list=PLRDzFCPr95fK7tr47883DFUbm4GeOjjc0) PEP8 |
+| 9:00  | Программирование Python           | [Курс нетологии](https://netology.ru/profile/program/devpy-2/schedule)  [курс на ютубе](https://www.youtube.com/playlist?list=PLRDzFCPr95fK7tr47883DFUbm4GeOjjc0) PEP8 [A Byte of Python](https://wombat.org.ua/AByteOfPython/AByteofPythonRussian-2.02.pdf) |
 | 11:30   | Второй завтрак                            |  |
 | 12:00  | Операционные системы              | [wisc.edu](https://pages.cs.wisc.edu/~remzi/OSTEP/)  книга "Operating System Concepts" - Silberschatz, Galvin, Gagne | - |
 | 14:00   | Обед                            |  | - |
