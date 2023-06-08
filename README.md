@@ -1,8 +1,8 @@
 | Время  | Дисциплина                       | Книга/материал |
 |--------|----------------------------------|----------------|
 | 7:00   | Физическая культура               |            |
-| 8:00   | Завтрак                           |  |
-| 9:00   | Английский                        | Skyeng.ru, курс netology.ru | - |
+| 7:30   | Завтрак                           |  |
+| 8:00   | Английский                        | Skyeng.ru, [курс netology.ru](https://netology.ru/profile/program/eng-it/schedule) | - |
 | 9:00  | Программирование Python           | Курс нетологии (https://netology.ru/profile/program/devpy-2/schedule), курс на ютубе https://www.youtube.com/playlist?list=PLRDzFCPr95fK7tr47883DFUbm4GeOjjc0 | - |
 | 11:30   | Второй завтрак                            |  | - |
 | 12:00  | Операционные системы              | https://pages.cs.wisc.edu/~remzi/OSTEP/, книга "Operating System Concepts" - Silberschatz, Galvin, Gagne | - |
