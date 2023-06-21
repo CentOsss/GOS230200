@@ -14,3 +14,15 @@
 | 19:30  | Занятия по СУБД                   | Книга "Database System Concepts" - Silberschatz, Korth, Sudarshan, курс на Coursera "Introduction to Databases" | Ужин (19:00-20:00) |
 | 21:30  | Свободное время                   | -              | -                     |
 | 23:30  | Перерыв на сон                    | -              | -                     |
+
+
+| Даты | Тема | Рекомендуемые материалы |
+| --- | --- | --- |
+| 21 июля 2023 - 23 июля 2023 | Функции - использование встроенных и создание собственных | [Статья](https://www.learnpython.org/en/Functions), [Видео](https://www.youtube.com/watch?v=9Os0o3wzS_I), [Документация](https://docs.python.org/3/tutorial/controlflow.html#defining-functions) |
+| 24 июля 2023 - 26 июля 2023 | ООП: объекты и классы. Взаимодействие между ними | [Статья](https://www.learnpython.org/en/Classes_and_Objects), [Видео](https://www.youtube.com/watch?v=ZDa-Z5JzLYM), [Документация](https://docs.python.org/3/tutorial/classes.html) |
+| 27 июля 2023 - 29 июля 2023 | ООП: наследование, инкапсуляция и полиморфизм | [Статья](https://realpython.com/python3-object-oriented-programming/), [Видео](https://www.youtube.com/watch?v=RSl87lqOXDE), [Документация](https://docs.python.org/3/tutorial/classes.html#inheritance) |
+| 30 июля 2023 - 1 августа 2023 | Открытие и чтение файла, запись в файл | [Статья](https://www.learnpython.org/en/Reading_and_Writing_Files), [Видео](https://www.youtube.com/watch?v=Uh2ebFW8OYM), [Документация](https://docs.python.org/3/tutorial/inputoutput.html#reading-and-writing-files) |
+| 2 августа 2023 - 4 августа 2023 | Работа с внешним API | [Статья](https://realpython.com/api-integration-in-python/), [Видео](https://www.youtube.com/watch?v=ks4MPfMq8aQ), [Документация](https://docs.python.org/3/library/urllib.html) |
+| 5 августа 2023 - 7 августа 2023 | Работа с разными форматами данных | [Статья](https://realpython.com/python-data-formats/), [Видео](https://www.youtube.com/watch?v=0xVqLJe9_CY), [Документация](https://docs.python.org/3/library/json.html) |
+| 8 августа 2023 - 10 августа 2023 | Работа с библиотекой requests, http запросы | [Статья](https://www.geeksforgeeks.org/get-post-requests-using-python/), [Видео](https://www.youtube.com/watch?v=tb8gHvYlCFs), [Документация](https://requests.readthedocs.io/en/master/user/quickstart/) |
+| 11 августа 2023 - 13 августа 2023 | Работа с классами на примере API VK | [Статья](https://realpython.com/python-vk-api/), [Видео](https://www.youtube.com/watch?v=J7GpVrHvE20), [Документация](https://vk.com/dev/manuals) |
