@@ -38,7 +38,8 @@
 | 12.08.2023  | Интеграция с Docker | 1. https://habr.com/ru/company/flant/blog/570876/ 2. https://vc.ru/dev/214765-gitlab-ci-cd-docker-integration | https://docs.gitlab.com/ee/ci/docker/using_docker_build.html | https://www.youtube.com/watch?v=0bOJ8Rd9kSc 2. https://www.youtube.com/watch?v=2Cj5WZvB1Qc 3. https://www.youtube.com/watch?v=UJlJvA1E8J4 |
 | 19.08.2023  | Тестирование в Gitlab CI/CD | 1. https://habr.com/ru/company/otus/blog/574196/ 2. https://vc.ru/dev/214767-gitlab-ci-cd-testing | https://docs.gitlab.com/ee/ci/testing/index.html | https://www.youtube.com/watch?v=0bOJ8Rd9kSc 2. https://www.youtube.com/watch?v=2Cj5WZvB1Qc 3. https://www.youtube.com/watch?v=UJlJvA1E8J4 |
 
-| 19.08.2023  | DIND | [1. https://habr.com/ru/company/otus/blog/574196/](https://slurm.io/blog/tpost/aevymod831-tonkosti-nastroiki-cicd-kak-rabotaet-git) 2. https://vc.ru/dev/214767-gitlab-ci-cd-testing | https://docs.gitlab.com/ee/ci/testing/index.html | https://www.youtube.com/watch?v=0bOJ8Rd9kSc 2. https://www.youtube.com/watch?v=2Cj5WZvB1Qc 3. https://www.youtube.com/watch?v=UJlJvA1E8J4 |
+| 19.08.2023  | DIND | [Docker-in-Docker](https://slurm.io/blog/tpost/aevymod831-tonkosti-nastroiki-cicd-kak-rabotaet-git)
+2. https://vc.ru/dev/214767-gitlab-ci-cd-testing | https://docs.gitlab.com/ee/ci/testing/index.html | https://www.youtube.com/watch?v=0bOJ8Rd9kSc 2. https://www.youtube.com/watch?v=2Cj5WZvB1Qc 3. https://www.youtube.com/watch?v=UJlJvA1E8J4 |
 
 
 
